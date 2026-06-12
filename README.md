@@ -13,13 +13,13 @@ device list, so the tool also works with iFi DACs built on the XMOS XU216
 Run directly:
 
 ```sh
-nix run github:andreivolt/xmos-dfu
+nix run github:rivavolt/xmos-dfu
 ```
 
 Build:
 
 ```sh
-nix build github:andreivolt/xmos-dfu
+nix build github:rivavolt/xmos-dfu
 ./result/bin/xmosdfu
 ```
 
